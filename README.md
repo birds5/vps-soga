@@ -1,2 +1,1 @@
-# vps-soga
-soga 
+soga
